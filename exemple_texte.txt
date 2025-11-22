@@ -1,0 +1,11 @@
+Colle ce texte dans “Description libre”: d'un coup j'ai eu une fumée que je califierais du blanche qui s'accentue avec l'accéleration du côté moteur un bruit asordissant comme un coup de marteaux sur une barre de metal et j'ai une perte de puissance quand j'accélère
+Clique “Diagnostiquer”.
+Attendu:
+Diagnostic: Injecteur défectueux
+Gravité: moyen
+Coût: entre 800000 Ar et 2000000 Ar
+Explication IA: paragraphe sur l’injecteur
+Retire le mot “blanche” du texte (garde le reste identique), puis re‑diagnostiquer.
+Attendu:
+La règle ne se déclenche plus (il manque “fumée blanche”).
+Tu peux voir la liste “Symptômes pris en compte” sans “fumée blanche”.

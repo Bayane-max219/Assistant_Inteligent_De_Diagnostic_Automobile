@@ -1,0 +1,1 @@
+voici le commande de lancement de ce projet via le terminal py -3.11 main_app.py
