@@ -136,15 +136,16 @@ L’exécutable généré apparaît ensuite dans le dossier `dist/`.
 
 ---
 
-## Captures d’écran (à ajouter)
+## Captures d’écran
 
-Ajouter vos captures dans un dossier, par exemple `captures/`, puis les référencer ici :
+Les captures suivantes montrent l’interface réelle de l’application :
 
-```md
-![Écran de login](captures/login.png)
-![Interface principale](captures/interface_principale.png)
-![Résultat de diagnostic](captures/resultat_diagnostic.png)
-```
+![Écran de login](screenshoots/connexion.png)
+![Interface principale](screenshoots/interface1.png)
+![Test diagnostic 1](screenshoots/test1.png)
+![Test diagnostic 2](screenshoots/Test2.png)
+![Test diagnostic 3](screenshoots/test3.png)
+![Confirmation mécanicien](screenshoots/confirmation.png)
 
 ---
 
