@@ -138,19 +138,25 @@ L’exécutable généré apparaît ensuite dans le dossier `dist/`.
 
 ## Captures d’écran
 
-Les captures suivantes montrent l’interface réelle de l’application :
+Les captures suivantes montrent l’interface réelle de l’application, dans l’ordre :
 
-![Écran de login](screenshoots/01-Connexion.png)
-![Confirmation mécanicien](screenshoots/02-Confirmation.png)
-![Interface principale](screenshoots/03-Interface.png)
-![Test diagnostic 1](screenshoots/04-Test1.png)
-![Test diagnostic 2](screenshoots/05-Test2.png)
-![Test diagnostic 3](screenshoots/06Test3.png)
+### 01 – Écran de connexion
+![01 – Connexion](screenshoots/01-Connexion.png)
+
+### 02 – Confirmation mécanicien
+![02 – Confirmation mécanicien](screenshoots/02-Confirmation.png)
+
+### 03 – Interface principale
+![03 – Interface principale](screenshoots/03-Interface.png)
+
+### 04 – Test de diagnostic n°1
+![04 – Test de diagnostic n°1](screenshoots/04-Test1.png)
+
 ### 05 – Test de diagnostic n°2
-![05 – Test 2](screenshoots/05-Test2.png)
+![05 – Test de diagnostic n°2](screenshoots/05-Test2.png)
 
 ### 06 – Test de diagnostic n°3
-![06 – Test 3](screenshoots/06Test3.png)
+![06 – Test de diagnostic n°3](screenshoots/06Test3.png)
 
 ---
 
